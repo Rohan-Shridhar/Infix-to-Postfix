@@ -1,1 +1,1 @@
-<h1 font:"bold">🐤An Infix to Postfix Converter is a simple program that uses a stack data structure to transform algebraic expressions from their human-readable infix notation (e.g., A + B) into the computer-friendly postfix notation (e.g.,AB+), which is ideal for easy evaluation.</h1>
+### 🐤An Infix to Postfix Converter is a simple program that uses a stack data structure to transform algebraic expressions from their human-readable infix notation (e.g., A + B) into the computer-friendly postfix notation (e.g.,AB+), which is ideal for easy evaluation.
